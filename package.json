@@ -1,0 +1,25 @@
+{
+  "name": "schuler-ipsum",
+  "version": "1.0.1",
+  "description": "Generate Lorem Ipsum style text from the writing of Ian Schuler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewbo/schuler-ipsum.git"
+  },
+  "keywords": [
+    "lorem",
+    "ipsum",
+    "ian",
+    "schuler"
+  ],
+  "author": "drewbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewbo/schuler-ipsum/issues"
+  },
+  "homepage": "https://github.com/drewbo/schuler-ipsum#readme"
+}
